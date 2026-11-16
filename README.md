@@ -6,7 +6,7 @@ Log activity
 
 | No | Date | Member | Task | Source / search / AI prompt used | Output / GitHub link |
 |----|------|--------|------|----------------------------------|----------------------|
-| 1  | 13/11/2026 | Alya Faqihah |Designed report cover page and formatted document layout|                                  |Added Cover Page to main report: [Link Fail]|
+| 1  | 13/11/2026 | Alya Faqihah |Designed report cover page and formatted document layout|Canva (Collage & illustration elements)|Added Cover Page to main report: [Link Fail]|
 | 2  | 14/11/2026 | Alya Faqihah |Filled the definition of creative, critical, scientific and mathematical thinking section |Google Scholar search: "[creative thinking skills, critical thinking definitions, scientific thinking applications, and introduction to mathemathical thinking ]" (No AI used)| Elaborated four kind of thinking in the main report: [Link Fail]|
 | 3  |      |        |      |                                  |                      |
 | 4  |      |        |      |                                  |                      |
