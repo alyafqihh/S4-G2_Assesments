@@ -8,5 +8,5 @@ Log activity
 |----|------|--------|------|----------------------------------|----------------------|
 | 1  | 13/11/2026 | Alya Faqihah |Designed report cover page and formatted document layout|Canva (Collage & illustration elements)|Added Cover Page to main report: [Link Fail]|
 | 2  | 14/11/2026 | Alya Faqihah |Filled the definition of creative, critical, scientific and mathematical thinking section |Google Scholar search: "[creative thinking skills, critical thinking definitions, scientific thinking applications, and introduction to mathemathical thinking ]" (No AI used)| Elaborated four kind of thinking in the main report: [Link Fail]|
-| 3  |      |        |      |                                  |                      |
-| 4  |      |        |      |                                  |                      |
+| 3  |15/11/2026|Alya Faqihah|Wrote and refined personal reflection on future career success in Computer Science & Data Engineering|Gemini Prompt: "Refine grammar and flow of my reflection without changing the original structure"|Completed personal reflection in shared Google Docs|
+| 4  |16/11/2026| Alya Faqihah |Created GitHub repository for group activity logbook and set up shared Google Docs for collaborative report writing|N/A|GitHub Repo: [[Link Repo GitHub](https://github.com/alyafqihh/log_activity_1)]|
